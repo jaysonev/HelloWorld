@@ -1,2 +1,4 @@
 Jayson Varughese
-This is information that is added in the testBranch branch
+University of Houston
+
+I have added my college to this branch
